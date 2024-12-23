@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+openai==0.28.0
+python-dotenv==1.0.0
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sqlalchemy
+pandas
+docx2txt
